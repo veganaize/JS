@@ -7,7 +7,7 @@ console.log( twoSum([1000000000,3,9,-5,-999999994], 6) );  // [0,4]
 
 
 function twoSum(nums, target) {
-    /* Necessary assignments to provide (missing) default values. */
+    /* Assignments to provide initial default values. */
     arguments[2] = arguments[2] || 0;  /* i */
     arguments[3] = arguments[3] || 1;  /* j */
 
