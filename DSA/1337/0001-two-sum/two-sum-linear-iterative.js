@@ -38,3 +38,6 @@ console.log( twoSum([3,3], 6)       );  // [0,1]
 console.log( twoSum([4,4,3,3], 6)   );  // [2,3]
 console.log( twoSum([6,4,4,0,3], 6) );  // [0,3]
 console.log( twoSum([1000000000,3,9,-5,-999999994], 6) );  // [0,4]
+
+for (var i = 1, arr = []; i <= 10000; arr.push(i++));
+console.log( twoSum(arr, 19999) );  // [9998,9999]
