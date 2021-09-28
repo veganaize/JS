@@ -21,8 +21,8 @@ function twoSum(nums, target) {
         if (hashmap[target-nums[i]] == undefined) {
             hashmap[target-nums[i]] = i;
         } else {
-        /* Addend's index already present */
-            /* Doubling addend equals target ? */
+        /* Index of current addend already present */
+            /* Doubling current addend equals target ? */
             if (nums[i] * 2 == target) {
                 return [hashmap[target-nums[i]], i];
             }
