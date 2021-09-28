@@ -14,16 +14,15 @@ function twoSum(nums, target) {
     var hashmap = {};
 
     for (var i = 0; i < nums.length; i++) {
-        /* Is other addend index present ? */
+        /* Index of other addend present ? */
         if (hashmap[nums[i]] != undefined) return [hashmap[nums[i]], i];
 
-        /* Is current addend's index not already present ? */
+        /* Index of current addend NOT present ? */
         if (hashmap[target-nums[i]] == undefined) {
             hashmap[target-nums[i]] = i;
-
-        /* Otherwise addend's index is already present */
         } else {
-            /* Does adding addend to itself equal target ? */
+        /* Addend's index already present */
+            /* Doubling addend equals target ? */
             if (nums[i] * 2 == target) {
                 return [hashmap[target-nums[i]], i];
             }
