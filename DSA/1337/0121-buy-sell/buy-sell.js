@@ -1,6 +1,6 @@
 /**
  * You are given an array prices where prices[i]
- * is the price of a given stock on the ith+1 day.
+ * is the price of a given stock on the ith day.
  *
  * You want to maximize your profit by choosing
  * a single day to buy one stock and choosing a
@@ -13,22 +13,16 @@
 
 
 function maxProfit(prices) {
-    var max, min = Infinity;
-    var profit, result = 0;
+    var lowest  = Infinity;
+    var highest = 0;
 
     for (var i = 0; i < prices.length; i++) {
-        if (prices[i] < min) {
-            min = prices[i];
-            max = 0;
-        }
-
-        if (prices[i] > max) max = prices[i];
-
-        profit = max - min;
-        if (profit > result) result = profit;
+        if (prices[i] < lowest) lowest = prices[i];
+        var profit = prices[i] - lowest;
+        if (profit > highest) highest = profit;
     }
 
-    return result;
+    return highest;
 }
 
 
