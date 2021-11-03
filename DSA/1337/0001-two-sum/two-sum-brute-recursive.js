@@ -11,20 +11,19 @@
 
 
 function twoSum(nums, target) {
-    arguments[2] = arguments[2] || 0;  /* i */
-    arguments[3] = arguments[3] || 1;  /* j */
+    /* Assign indexes, provide initial default values */
+    var i = arguments[2] || 0;
+    var j = arguments[3] || 1;
 
-    /* Not as pure as 'b' version because of assignments! */
-    if (arguments[3] == nums.length) {
-        arguments[2] += 1;
-        arguments[3]  = arguments[2]+1;
-    }
+    if (target == nums[i] + nums[j]) return [i, j];
 
-    if (target == nums[arguments[2]] + nums[arguments[3]]) {
-        return [arguments[2], arguments[3]];
-    }
-
-    return twoSum(nums, target, arguments[2], arguments[3]+1);
+    /* Recurse */
+    return twoSum(nums, target,
+            /* Increment outter loop (i) ? */
+            j == nums.length ? i+1 : i,
+            /* Increment inner loop (j) */
+            j == nums.length ? i+2 : j+1
+    );
 }
 
 
