@@ -12,16 +12,16 @@
 
 function twoSum(nums, target) {
     /* Assignments to provide initial default values. */
-    arguments[2] = arguments[2] || 0;  /* i */
-    arguments[3] = arguments[3] || 1;  /* j */
+    var i = arguments[2] || 0;
+    var j = arguments[3] || 1;
 
-    if (target == nums[arguments[2]] + nums[arguments[3]]) {
-        return [arguments[2], arguments[3]];
+    if (target == nums[i] + nums[j]) {
+        return [i, j];
     }
 
     return twoSum(nums, target,
-            arguments[3] == nums.length ? arguments[2]+1 : arguments[2],
-            arguments[3] == nums.length ? arguments[2]+2 : arguments[3]+1
+            j == nums.length ? i+1 : i,
+            j == nums.length ? i+2 : j+1
     );
 }
 
