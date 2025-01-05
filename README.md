@@ -10,4 +10,4 @@
   - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - (pdf) 1999
   - [ES5](https://262.ecma-international.org/5.1/index.html) - (html) 2011 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf))
   - [ES6](https://262.ecma-international.org/6.0/index.html) - (html) 2015 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf))
-  - [latest](https://262.ecma-international.org/) - (html)
+  - [latest](https://tc39.es/ecma262/2024/multipage/) - (html)
