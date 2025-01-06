@@ -1,6 +1,12 @@
-# JS
+<img alt="JS" src="https://github.com/user-attachments/assets/54328c3b-0d27-4494-a1db-90e9188a6159" width="48px" />
+
+
+## Style
 
 * [Guidelines for styling JavaScript code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript) - Mozilla
+
+
+## Books
 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) (1st Edition)
   - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going)
@@ -9,11 +15,18 @@
   - [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
   - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+
+
+## Stuff
 
 * IIFE - Immediately Invoked Function Expression
   - [Alman](https://web.archive.org/web/20101118035434id_/http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
   - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
   - [Wikipedia](https://en.wikipedia.org/wiki/Immediately_invoked_function_expression)
+
+
+## Standards
 
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
   - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - (pdf) 1999
