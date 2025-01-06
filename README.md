@@ -16,6 +16,7 @@
   - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+* [Eloquent Javascript](https://eloquentjavascript.net/2nd_edition/) (2nd Edition)
 
 
 ## Stuff
