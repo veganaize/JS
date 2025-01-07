@@ -23,6 +23,10 @@
 
 ## Stuff
 
+* Console / Dev Tools
+  - [`console`](https://developer.mozilla.org/en-US/docs/Web/API/console) - mdn
+  - [Web Console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html) - firefox
+  - [Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html) - firefox
 * IIFE - Immediately Invoked Function Expression
   - [Alman](https://web.archive.org/web/20101118035434id_/http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
   - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
