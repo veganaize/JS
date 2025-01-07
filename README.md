@@ -18,7 +18,7 @@
   - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 * [Eloquent Javascript](https://eloquentjavascript.net/2nd_edition/) (2nd Edition)
-* [Javascript Succinctly](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.pdf) ([epub](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.epub)) ([mobi](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.mobi)) ([github](https://github.com/SyncfusionSuccinctlyE-Books/JavaScript-Succinctly))
+* [Javascript Succinctly](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.pdf) (pdf) ([epub](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.epub)) ([mobi](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.mobi)) ([github](https://github.com/SyncfusionSuccinctlyE-Books/JavaScript-Succinctly))
 
 
 ## Stuff
