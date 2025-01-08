@@ -46,6 +46,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 ## Standards
 
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+  - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - (pdf) 1997-1998
   - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - (pdf) 1999
   - [ES5](https://262.ecma-international.org/5.1/index.html) - (html) 2011 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf))
   - [ES6](https://262.ecma-international.org/6.0/index.html) - (html) 2015 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf))
