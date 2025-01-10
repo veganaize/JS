@@ -28,7 +28,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 * w3schools
   - [js tutorial](https://www.w3schools.com/js/default.asp)
   - [js reference](https://www.w3schools.com/jsref/default.asp)
-* mdn
+* mdn _([offline markdown](https://github.com/mdn/content))_
   - [js tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting)
   - [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [js guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
