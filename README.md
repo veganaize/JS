@@ -20,14 +20,32 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 * [Eloquent Javascript](https://eloquentjavascript.net/2nd_edition/) (2nd Edition)
 * [Javascript Succinctly](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.pdf) (pdf) ([epub](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.epub)) ([mobi](https://s3.amazonaws.com/ebooks.syncfusion.com/downloads/JavaScript_Succinctly/JavaScript_Succinctly.mobi)) ([github](https://github.com/SyncfusionSuccinctlyE-Books/JavaScript-Succinctly))
+* [Javascript Wikibook](https://en.wikibooks.org/wiki/JavaScript)
+
+
+## Resources
+
+* w3schools
+  - [js tutorial](https://www.w3schools.com/js/default.asp)
+  - [js reference](https://www.w3schools.com/jsref/default.asp)
+* mdn
+  - [js tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting)
+  - [js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    - [js guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+    - [js reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* freecodecamp
+  - [js dsa tutorials](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) _(original version!)_
+* codecademy
+  - [js reference](https://www.codecademy.com/resources/docs/javascript)
 
 
 ## Stuff
 
 * Console / Dev Tools
   - [`console`](https://developer.mozilla.org/en-US/docs/Web/API/console) - mdn
-  - [Web Console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html) - firefox
-  - [Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html) - firefox
+  - [Chromium Dev Tools](https://developer.chrome.com/docs/devtools/)
+  - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
+  - [Firefox Web Console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
   - Firefox annoyances: `about:config`
     ```
     devtools.editor.tabsize                   = 4
@@ -37,6 +55,9 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     devtools.editor.autocomplete              = false
     devtools.editor.autoclosebrackets         = false
     ```
+* AJAX -
+  - [Ajax: A New Approach to Web Applications](http://web.archive.org/web/20170809043416id_/https://immagic.com/eLibrary/ARCHIVES/GENERAL/ADTVPATH/A050218G.pdf)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
 * IIFE - Immediately Invoked Function Expression
   - [Alman](https://web.archive.org/web/20101118035434id_/http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
   - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
@@ -48,6 +69,6 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
   - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - (pdf) 1997-1998
   - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - (pdf) 1999
-  - [ES5](https://262.ecma-international.org/5.1/index.html) - (html) 2011 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf))
+  - [ES5](https://262.ecma-international.org/5.1/index.html) - (html) 2009-2011 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf))
   - [ES6](https://262.ecma-international.org/6.0/index.html) - (html) 2015 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf))
   - [latest](https://tc39.es/ecma262/multipage/) - (html)
