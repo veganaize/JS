@@ -43,6 +43,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 
 * DEVTOOLS
   - [`console`](https://developer.mozilla.org/en-US/docs/Web/API/console) - mdn
+  - [Browser Developer Console](https://blog.teamtreehouse.com/mastering-developer-tools-console) - treehouse
   - [Chromium Dev Tools](https://developer.chrome.com/docs/devtools/)
   - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
   - [Firefox Web Console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
