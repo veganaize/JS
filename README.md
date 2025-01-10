@@ -41,7 +41,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 
 ## Stuff
 
-* Console / Dev Tools
+* DEV TOOLS
   - [`console`](https://developer.mozilla.org/en-US/docs/Web/API/console) - mdn
   - [Chromium Dev Tools](https://developer.chrome.com/docs/devtools/)
   - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
