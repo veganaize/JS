@@ -65,6 +65,10 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
   - [Alman](https://web.archive.org/web/20101118035434id_/http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
   - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
   - [Wikipedia](https://en.wikipedia.org/wiki/Immediately_invoked_function_expression)
+* UNICODE
+  - [What every JavaScript developer should know about Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/)
+  - [UTF-16 characters, Unicode code points, and grapheme clusters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#utf-16_characters_unicode_code_points_and_grapheme_clusters) - mdn
+  - [UTF-16](https://en.wikipedia.org/wiki/UTF-16) - wikipedia
 
 
 ## Standards
