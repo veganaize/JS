@@ -46,16 +46,18 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
   - [Chromium Dev Tools](https://developer.chrome.com/docs/devtools/)
   - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
   - [Firefox Web Console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
-  - Firefox annoyances: `about:config`
+  - Firefox `about:config`
     ```
-    devtools.editor.tabsize                   = 4
     devtools.cache.disabled                   = true
-    devtools.webconsole.input.autocomplete    = false
-    devtools.webconsole.input.eagerEvaluation = false
+    devtools.webconsole.persistlog            = true
+    devtools.editor.tabsize                   = 4
+    devtools.theme                            = dark
     devtools.editor.autocomplete              = false
     devtools.editor.autoclosebrackets         = false
+    devtools.webconsole.input.autocomplete    = false
+    devtools.webconsole.input.eagerEvaluation = false
     ```
-* AJAX -
+* AJAX - Asynchronous Javascript And Xml
   - [Ajax: A New Approach to Web Applications](http://web.archive.org/web/20170809043416id_/https://immagic.com/eLibrary/ARCHIVES/GENERAL/ADTVPATH/A050218G.pdf)
   - [Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
 * IIFE - Immediately Invoked Function Expression
