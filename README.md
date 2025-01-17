@@ -75,6 +75,8 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 
 ## Standards
 
+* Netscape
+  - [JS 1.0](https://minimum-viable-product.github.io/js-1.0-handbook/) - 1995-1996 DevEdge Handbook
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
   - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - (pdf) 1997-1998
   - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - (pdf) 1999
