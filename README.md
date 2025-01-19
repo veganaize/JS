@@ -6,6 +6,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 
 * [Vanilla JS](http://vanilla-js.com/)
 * [Guidelines for styling JavaScript code examples](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript) - Mozilla
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) ([_oldest snapshot_](http://web.archive.org/web/20161126025850id_/https://google.github.io/styleguide/jsguide.html))
 
 
 ## Books
