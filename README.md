@@ -52,6 +52,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - [web console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
     - [Mozilla's Command Line Options](https://www-archive.mozilla.org/docs/command-line-args.html) - 2003-2005
     - [Firefox/CommandLineOptions](https://wiki.mozilla.org/Firefox/CommandLineOptions) - mozilla wiki
+    - `firefox.exe -h | more` <-- Pipe required for Windows because of bug.
     - `about:config`
     ```
     devtools.cache.disabled                   = true
