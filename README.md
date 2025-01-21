@@ -50,12 +50,15 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
   - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
     - [keyboard shortcuts](https://firefox-source-docs.mozilla.org/devtools-user/keyboard_shortcuts/index.html)
     - [web console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
-  - Firefox `about:config`
+    - [Mozilla's Command Line Options](https://www-archive.mozilla.org/docs/command-line-args.html) - 2003-2005
+    - [Firefox/CommandLineOptions](https://wiki.mozilla.org/Firefox/CommandLineOptions) - mozilla wiki
+    - `about:config`
     ```
     devtools.cache.disabled                   = true
     devtools.webconsole.persistlog            = true
     devtools.editor.tabsize                   = 4
     devtools.theme                            = dark
+    devtools.chrome.enabled                   = true
     devtools.editor.autocomplete              = false
     devtools.editor.autoclosebrackets         = false
     devtools.webconsole.input.autocomplete    = false
