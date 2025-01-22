@@ -83,10 +83,10 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 
 * Netscape
   - [JS 1.0](https://web.archive.org/web/19970613234917id_/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/index.html) - 1995-1996 _JavaScript Authoring Guide_ - Netscape 2.0 ([_updated_](https://minimum-viable-product.github.io/js-1.0-handbook/))
-  - [JS 1.1](https://web.archive.org/web/19970614042441id_/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/index.html) - 1996-1997 _JavaScript Guide_ - Netscape 3.0
-  - [JS 1.2](https://web.archive.org/web/19981206151821id_/http://developer.netscape.com/docs/manuals/communicator/jsguide4/index.htm) - 1997 _JavaScript Guide_ - Netscape 4.0
-  - [JS 1.2](https://web.archive.org/web/19990420172150id_/http://developer.netscape.com/docs/manuals/communicator/jsref/index.htm) - 1997 _JavaScript Reference_ - Netscape 4.0
-  - [DHTML](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm) - 1997 _Dynamic HTML in Netscape Communicator_ 4.0
+  - [JS 1.1](https://web.archive.org/web/19970614042441id_/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/index.html) - 1996-1997 _JavaScript Guide_ - [Netscape 3.0](https://web.archive.org/web/20020219135930id_/http://ftp.netscape.com/pub/communicator/english/3.04/windows/windows95_or_nt/navigator_gold/g32d304.exe)
+  - [JS 1.2](https://web.archive.org/web/19981206151821id_/http://developer.netscape.com/docs/manuals/communicator/jsguide4/index.htm) - 1997 _JavaScript Guide_ - [Netscape 4.0](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)
+  - [JS 1.2](https://web.archive.org/web/19990420172150id_/http://developer.netscape.com/docs/manuals/communicator/jsref/index.htm) - 1997 _JavaScript Reference_ - [Netscape 4.0](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)
+  - [DHTML](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm) - 1997 _Dynamic HTML in Netscape Communicator_ [4.0](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
   - [ES1](https://www.ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf) - 1997 (pdf only)
   - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - 1998 (pdf only)
