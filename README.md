@@ -94,7 +94,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
   - [JS 1.5](https://web.archive.org/web/20010204033300id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/contents.html) - 2000 _Core JavaScript Reference_ ([zip](https://web.archive.org/web/20030403200417id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/CoreReferenceJS15.zip)) - [Netscape 6](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe)
   - [DHTML](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm) - 1997 _Dynamic HTML in Netscape Communicator_ [4.x](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
-  - [ES1](https://www.ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf) - 1997 (pdf only)
+  - [ES1](https://www.ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf) - 1997 (pdf only) ([_untampered original_](https://web.archive.org/web/20040716162346id_/http://developer.netscape.com/docs/javascript/e262-pdf.pdf))
   - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - 1998 (pdf only)
   - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - 1999 (pdf only)
   - [ES5](https://ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf) - 2009 (pdf only)
