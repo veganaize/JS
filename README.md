@@ -114,7 +114,10 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - [New in JavaScript 1.8](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.html) - mdn
   - ___JS 1.8.1___ - 2009 - [_Firefox 3.5_](https://archive.mozilla.org/pub/firefox/releases/3.5.19/win32/en-US/Firefox%20Setup%203.5.19.exe)
     - [New in JavaScript 1.8.1](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.1.html) - mdn
+  - ___JS 1.8.2___ - 2010 - [_Firefox 3.6_](https://archive.mozilla.org/pub/firefox/releases/3.6.28/win32/en-US/Firefox%20Setup%203.6.28.exe)
+    - _Only Minor Changes_
   - ___JS 1.8.5___ - 2011 - [_Firefox 4.0_](https://archive.mozilla.org/pub/firefox/releases/4.0.1/win32/en-US/Firefox%20Setup%204.0.1.exe)
+    - _Last JavaScript Version_
     - [New in JavaScript 1.8.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.5.html) - mdn
   - ___DHTML___ - 1997 - [_Netscape 4.x_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
     - [Dynamic HTML in Netscape Communicator](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm)
