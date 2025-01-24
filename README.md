@@ -89,19 +89,21 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - [JavaScript Guide](https://web.archive.org/web/19970614042441id_/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/index.html)
   - ___JS 1.2___ - 1997 - [_Netscape 4.0-4.05_](http://www.oldversion.com/windows/netscape-4-04)
     - [New in JavaScript 1.2](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.2.html) - mdn
+    - [JavaScript 1.2 Events](https://web.archive.org/web/19990417223104id_/http://developer.netscape.com/docs/technote/javascript/eventhandler/eventhandler.htm) - devedge
     - [JavaScript Guide](https://web.archive.org/web/19981206151821id_/http://developer.netscape.com/docs/manuals/communicator/jsguide4/index.htm)
     - [JavaScript Reference](https://web.archive.org/web/19990420172150id_/http://developer.netscape.com/docs/manuals/communicator/jsref/index.htm)
   - ___JS 1.3___ - 1998 - _Netscape_ [_4.06_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)-[_4.7x_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
     - _ES1 Compliant_
     - [New in JavaScript 1.3](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.3.html) - mdn
     - [What's New in JavaScript 1.3](https://web.archive.org/web/20000815081640id_/http://developer.netscape.com/docs/manuals/communicator/jsref/js13.html) - devedge
+    - [The JavaScript Console](https://web.archive.org/web/19990225164533id_/http://developer.netscape.com/docs/technote/jsconsole.html) - devedge
     - [Client-Side JavaScript Guide](https://web.archive.org/web/19990427055335id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/index.htm) ([pdf](https://web.archive.org/web/20000818004353id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/ClientGuideJS13.pdf)) ([zip](https://web.archive.org/web/20000818004401id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/ClientGuideJS13.zip))
     - [Client-Side JavaScript Reference](https://web.archive.org/web/19990423121049id_/http://developer.netscape.com/docs/manuals/js/client/jsref/index.htm) ([pdf](https://web.archive.org/web/20000818004411id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.pdf)) ([zip](https://web.archive.org/web/20000818004419id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.zip))
   - ___JS 1.4___
     - [New in JavaScript 1.4](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.4.html) - mdn
     - [Core JavaScript Guide](https://web.archive.org/web/20000301015524id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/index.htm) ([pdf](https://web.archive.org/web/20000818004517id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.pdf)) ([zip](https://web.archive.org/web/20000818004526id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.zip))
     - [Core JavaScript Reference](https://web.archive.org/web/20000301130413id_/http://developer.netscape.com/docs/manuals/js/core/jsref/index.htm) ([pdf](https://web.archive.org/web/20000818004546id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.pdf)) ([zip](https://web.archive.org/web/20000818004552id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.zip))
-  - ___JS 1.5___ - 2000 - [_Netscape 6_](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe)
+  - ___JS 1.5___ - 2000 - [Mozilla](https://www-archive.mozilla.org/releases/) / [_Netscape 6_](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe)
     - _ES3 Compliant_
     - [New in JavaScript 1.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.5.html) - mdn
     - [Core JavaScript Guide](https://web.archive.org/web/20010204031200id_/http://developer.netscape.com/docs/manuals/js/core/jsguide15/contents.html) ([zip](https://web.archive.org/web/20030919183318id_/http://devedge.netscape.com:80/library/manuals/2000/javascript/1.5/guide/CoreGuideJS15.zip))
@@ -120,12 +122,15 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - _ES5 Compliant_
     - _Last JavaScript Version_
     - [New in JavaScript 1.8.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.5.html) - mdn
-  - ___DHTML___ - 1997 - [_Netscape 4.x_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
+  - ___DHTML___ - 1997 - [_Netscape 4.x_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)
     - [Dynamic HTML in Netscape Communicator](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm)
+    - [HTML Central](https://web.archive.org/web/20040813051149id_/http://devedge.netscape.com/central/html/)
+    - [CSS Central](https://web.archive.org/web/20040926074952id_/http://devedge.netscape.com/central/css/)
+    - [DOM Central](https://web.archive.org/web/20041001081429id_/http://devedge.netscape.com/central/dom/)
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
   - [ES1](https://www.ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf) - 1997 (pdf only) ([_untampered original_](https://web.archive.org/web/20040716162346id_/http://developer.netscape.com/docs/javascript/e262-pdf.pdf))
   - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - 1998 (pdf only) - [_Netscape 4_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)
-  - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - 1999 (pdf only) - [Netscape 6](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe) / [_Firefox 1_](https://archive.mozilla.org/pub/firefox/releases/1.0.8/win32/en-US/Firefox%20Setup%201.0.8.exe)
+  - [ES3](https://ecma-international.org/wp-content/uploads/ECMA-262_3rd_edition_december_1999.pdf) - 1999 (pdf only) - [Mozilla](https://www-archive.mozilla.org/releases/) / [Netscape 6](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe) / [_Firefox 1_](https://archive.mozilla.org/pub/firefox/releases/1.0.8/win32/en-US/Firefox%20Setup%201.0.8.exe)
   - [ES5](https://ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf) - 2009 (pdf only) - [_Firefox 4_](https://archive.mozilla.org/pub/firefox/releases/4.0.1/win32/en-US/Firefox%20Setup%204.0.1.exe)
   - [ES5.1](https://262.ecma-international.org/5.1/index.html) - 2011 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf))
   - [ES6](https://262.ecma-international.org/6.0/index.html) - 2015 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf)) - [_Firefox 54_](https://archive.mozilla.org/pub/firefox/releases/54.0.1/win32/en-US/Firefox%20Setup%2054.0.1.exe)
