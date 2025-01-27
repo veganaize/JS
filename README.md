@@ -127,6 +127,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - [HTML Central](https://web.archive.org/web/20040813051149id_/http://devedge.netscape.com/central/html/)
     - [CSS Central](https://web.archive.org/web/20040926074952id_/http://devedge.netscape.com/central/css/)
     - [DOM Central](https://web.archive.org/web/20041001081429id_/http://devedge.netscape.com/central/dom/)
+    - [JavaScript Style Sheets and Dynamic Fonts](https://web.archive.org/web/20030918071806id_/http://www.damsbo.com/webdev/jsss/sstoc.htm)
 * [ECMA 262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
   - [ES1](https://www.ecma-international.org/wp-content/uploads/ECMA-262_1st_edition_june_1997.pdf) - 1997 (pdf only) ([_untampered original_](https://web.archive.org/web/20040716162346id_/http://developer.netscape.com/docs/javascript/e262-pdf.pdf))
   - [ES2](https://ecma-international.org/wp-content/uploads/ECMA-262_2nd_edition_august_1998.pdf) - 1998 (pdf only) - [_Netscape 4_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)
