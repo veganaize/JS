@@ -41,7 +41,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
   - [js reference](https://www.codecademy.com/resources/docs/javascript)
 
 
-## Stuff
+## Tools
 
 * DEVTOOLS
   - [`console`](https://developer.mozilla.org/en-US/docs/Web/API/console) - mdn
@@ -67,6 +67,12 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     devtools.webconsole.input.autocomplete    = false
     devtools.webconsole.input.eagerEvaluation = false
     ```
+* [JSDOC](https://jsdoc.app/)
+  - [jsdoc](https://github.com/jsdoc/jsdoc) - github
+
+
+## Techniques
+
 * AJAX - Asynchronous Javascript And Xml
   - [Ajax: A New Approach to Web Applications](http://web.archive.org/web/20170809043416id_/https://immagic.com/eLibrary/ARCHIVES/GENERAL/ADTVPATH/A050218G.pdf)
   - [Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
