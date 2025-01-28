@@ -99,7 +99,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
   - ___JS 1.3___ - 1998 - _Netscape_
 [_4.06_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe) -
 [_4.79_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
-([linux](web.archive.org/web/20130422080729id_/http://aol-4.vo.llnwd.net/pub/communicator/english/4.79/unix/supported/linux22/navigator_standalone/navigator-v479-us.x86-unknown-linux2.2.tar.gz))
+([linux](https://web.archive.org/web/20130422080729id_/http://aol-4.vo.llnwd.net/pub/communicator/english/4.79/unix/supported/linux22/navigator_standalone/navigator-v479-us.x86-unknown-linux2.2.tar.gz))
     - _ES1 Compliant_
     - [New in JavaScript 1.3](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.3.html) - mdn
     - [What's New in JavaScript 1.3](https://web.archive.org/web/20000815081640id_/http://developer.netscape.com/docs/manuals/communicator/jsref/js13.html) - devedge
