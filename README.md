@@ -82,19 +82,24 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 ## Standards / Conventions
 
 * Netscape
-  - ___JS 1.0___ - 1995 - [_Netscape 2.0_](https://archive.org/download/n32e202/n32e202.exe)
+  - ___JS 1.0___ - 1995 - [_Netscape 2.0_](https://en.wikipedia.org/wiki/Netscape_Navigator_2)
+[win32](https://cdn.browserarchive.org/navigator/32bit/2.02/n32e202.exe)
+[linux](https://www.mirrorservice.org/sites/browsers.evolt.org/browsers/navigator/linuxx86/2.02/netscape-v202-export_i486-unknown-linux.tar.gz)
     - [JavaScript Authoring Guide](https://web.archive.org/web/19970613234917id_/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/index.html) ([_updated_](https://minimum-viable-product.github.io/js-1.0-handbook/))
-  - ___JS 1.1___ - 1996 - [_Netscape 3.0_](https://web.archive.org/web/20020219135930id_/http://ftp.netscape.com/pub/communicator/english/3.04/windows/windows95_or_nt/navigator_gold/g32d304.exe)
+  - ___JS 1.1___ - 1996 - _Netscape 3.0_
+[win32](https://web.archive.org/web/20020219135930id_/http://ftp.netscape.com/pub/communicator/english/3.04/windows/windows95_or_nt/navigator_gold/g32d304.exe)
+[linux](https://www.mirrorservice.org/sites/browsers.evolt.org/browsers/navigator/linuxx86/3.04/netscape-v304-export_x86-unknown-linux-elf.tar.gz)
     - [New in JavaScript 1.1](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.1.html) - mdn
     - [JavaScript Guide](https://web.archive.org/web/19970614042441id_/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/index.html)
-  - ___JS 1.2___ - 1997 - [_Netscape 4.0-4.05_](http://www.oldversion.com/windows/netscape-4-04)
+  - ___JS 1.2___ - 1997 - [_Netscape 4.0-4.05_](https://www.mirrorservice.org/sites/browsers.evolt.org/browsers/navigator/32bit/4.04/n32d404.exe)
     - [New in JavaScript 1.2](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.2.html) - mdn
     - [JavaScript 1.2 Events](https://web.archive.org/web/19990417223104id_/http://developer.netscape.com/docs/technote/javascript/eventhandler/eventhandler.htm) - devedge
     - [JavaScript Guide](https://web.archive.org/web/19981206151821id_/http://developer.netscape.com/docs/manuals/communicator/jsguide4/index.htm)
     - [JavaScript Reference](https://web.archive.org/web/19990420172150id_/http://developer.netscape.com/docs/manuals/communicator/jsref/index.htm)
   - ___JS 1.3___ - 1998 - _Netscape_
 [_4.06_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe) -
-[_4.7x_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
+[_4.79_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
+([linux](web.archive.org/web/20130422080729id_/http://aol-4.vo.llnwd.net/pub/communicator/english/4.79/unix/supported/linux22/navigator_standalone/navigator-v479-us.x86-unknown-linux2.2.tar.gz))
     - _ES1 Compliant_
     - [New in JavaScript 1.3](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.3.html) - mdn
     - [What's New in JavaScript 1.3](https://web.archive.org/web/20000815081640id_/http://developer.netscape.com/docs/manuals/communicator/jsref/js13.html) - devedge
