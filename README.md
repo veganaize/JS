@@ -92,33 +92,60 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - [JavaScript 1.2 Events](https://web.archive.org/web/19990417223104id_/http://developer.netscape.com/docs/technote/javascript/eventhandler/eventhandler.htm) - devedge
     - [JavaScript Guide](https://web.archive.org/web/19981206151821id_/http://developer.netscape.com/docs/manuals/communicator/jsguide4/index.htm)
     - [JavaScript Reference](https://web.archive.org/web/19990420172150id_/http://developer.netscape.com/docs/manuals/communicator/jsref/index.htm)
-  - ___JS 1.3___ - 1998 - _Netscape_ [_4.06_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe)-[_4.7x_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
+  - ___JS 1.3___ - 1998 - _Netscape_
+[_4.06_](https://web.archive.org/web/20020527043835id_/http://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe) -
+[_4.7x_](https://web.archive.org/web/20020622155649id_/http://ftp.netscape.com:80/pub/communicator/english/4.79/windows/windows95_or_nt/base_install/cb32d479.exe)
     - _ES1 Compliant_
     - [New in JavaScript 1.3](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.3.html) - mdn
     - [What's New in JavaScript 1.3](https://web.archive.org/web/20000815081640id_/http://developer.netscape.com/docs/manuals/communicator/jsref/js13.html) - devedge
     - [The JavaScript Console](https://web.archive.org/web/19990225164533id_/http://developer.netscape.com/docs/technote/jsconsole.html) - devedge
     - [Client-Side JavaScript Guide](https://web.archive.org/web/19990427055335id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/index.htm) ([pdf](https://web.archive.org/web/20000818004353id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/ClientGuideJS13.pdf)) ([zip](https://web.archive.org/web/20000818004401id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/ClientGuideJS13.zip))
-    - [Client-Side JavaScript Reference](https://web.archive.org/web/19990423121049id_/http://developer.netscape.com/docs/manuals/js/client/jsref/index.htm) ([pdf](https://web.archive.org/web/20000818004411id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.pdf)) ([zip](https://web.archive.org/web/20000818004419id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.zip))
+    - [Client-Side JavaScript Reference](https://web.archive.org/web/19990423121049id_/http://developer.netscape.com/docs/manuals/js/client/jsref/index.htm)
+([pdf](https://web.archive.org/web/20000818004411id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.pdf))
+([zip](https://web.archive.org/web/20000818004419id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.zip))
   - ___JS 1.4___
     - [New in JavaScript 1.4](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.4.html) - mdn
-    - [Core JavaScript Guide](https://web.archive.org/web/20000301015524id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/index.htm) ([pdf](https://web.archive.org/web/20000818004517id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.pdf)) ([zip](https://web.archive.org/web/20000818004526id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.zip))
-    - [Core JavaScript Reference](https://web.archive.org/web/20000301130413id_/http://developer.netscape.com/docs/manuals/js/core/jsref/index.htm) ([pdf](https://web.archive.org/web/20000818004546id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.pdf)) ([zip](https://web.archive.org/web/20000818004552id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.zip))
-  - ___JS 1.5___ - 2000 - [Mozilla](https://www-archive.mozilla.org/releases/) / [_Netscape 6_](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe)
+    - [Core JavaScript Guide](https://web.archive.org/web/20000301015524id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/index.htm)
+([pdf](https://web.archive.org/web/20000818004517id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.pdf))
+([zip](https://web.archive.org/web/20000818004526id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.zip))
+    - [Core JavaScript Reference](https://web.archive.org/web/20000301130413id_/http://developer.netscape.com/docs/manuals/js/core/jsref/index.htm)
+([pdf](https://web.archive.org/web/20000818004546id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.pdf))
+([zip](https://web.archive.org/web/20000818004552id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.zip))
+  - ___JS 1.5___ - 2000 - [Mozilla](https://www-archive.mozilla.org/releases/) /
+[_Netscape 6_](https://web.archive.org/web/20010702053004id_/http://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/sea/N6Setup.exe) /
+_Firefox 1.0_
+[win32](https://archive.mozilla.org/pub/firefox/releases/1.0.8/win32/en-US/Firefox%20Setup%201.0.8.exe)
+[i686](https://archive.mozilla.org/pub/firefox/releases/1.0.8/linux-i686/en-US/firefox-1.0.8.tar.gz)
     - _ES3 Compliant_
     - [New in JavaScript 1.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.5.html) - mdn
-    - [Core JavaScript Guide](https://web.archive.org/web/20010204031200id_/http://developer.netscape.com/docs/manuals/js/core/jsguide15/contents.html) ([zip](https://web.archive.org/web/20030919183318id_/http://devedge.netscape.com:80/library/manuals/2000/javascript/1.5/guide/CoreGuideJS15.zip))
-    - [Core JavaScript Reference](https://web.archive.org/web/20010204033300id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/contents.html) ([zip](https://web.archive.org/web/20030403200417id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/CoreReferenceJS15.zip))
-  - ___JS 1.6___ - 2005 - [_Firefox 1.5_](https://archive.mozilla.org/pub/firefox/releases/1.5.0.12/win32/en-US/Firefox%20Setup%201.5.0.12.exe)
+    - [Core JavaScript Guide](https://web.archive.org/web/20010204031200id_/http://developer.netscape.com/docs/manuals/js/core/jsguide15/contents.html)
+([zip](https://web.archive.org/web/20030919183318id_/http://devedge.netscape.com:80/library/manuals/2000/javascript/1.5/guide/CoreGuideJS15.zip))
+    - [Core JavaScript Reference](https://web.archive.org/web/20010204033300id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/contents.html)
+([zip](https://web.archive.org/web/20030403200417id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/CoreReferenceJS15.zip))
+  - ___JS 1.6___ - 2005 - [_Firefox 1.5_](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/1.5.html)
+[win32](https://archive.mozilla.org/pub/firefox/releases/1.5.0.12/win32/en-US/Firefox%20Setup%201.5.0.12.exe)
+[linux-i686](https://archive.mozilla.org/pub/firefox/releases/1.5.0.12/linux-i686/en-US/firefox-1.5.0.12.tar.gz)
     - [New in JavaScript 1.6](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.6.html) - mdn
-  - ___JS 1.7___ - 2006 - [_Firefox 2.0_](https://archive.mozilla.org/pub/firefox/releases/2.0.0.20/win32/en-US/Firefox%20Setup%202.0.0.20.exe)
+  - ___JS 1.7___ - 2006 - [_Firefox 2.0_](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/2.html)
+[win32](https://archive.mozilla.org/pub/firefox/releases/2.0.0.20/win32/en-US/Firefox%20Setup%202.0.0.20.exe)
+[linux-i686](https://archive.mozilla.org/pub/firefox/releases/2.0.0.20/linux-i686/en-US/firefox-2.0.0.20.tar.gz)
     - [New in JavaScript 1.7](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.7.html) - mdn
-  - ___JS 1.8___ - 2008 - [_Firefox 3.0_](https://archive.mozilla.org/pub/firefox/releases/3.0.18/win32/en-US/Firefox%20Setup%203.0.18.exe)
+  - ___JS 1.8___ - 2008 - [_Firefox 3.0_](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.html)
+[win32](https://archive.mozilla.org/pub/firefox/releases/3.0.18/win32/en-US/Firefox%20Setup%203.0.18.exe)
+[linux-i686](https://archive.mozilla.org/pub/firefox/releases/3.0.18/linux-i686/en-US/firefox-3.0.18.tar.bz2)
     - [New in JavaScript 1.8](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.html) - mdn
-  - ___JS 1.8.1___ - 2009 - [_Firefox 3.5_](https://archive.mozilla.org/pub/firefox/releases/3.5.19/win32/en-US/Firefox%20Setup%203.5.19.exe)
+  - ___JS 1.8.1___ - 2009 - [_Firefox 3.5_](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.5.html)
+[win32](https://archive.mozilla.org/pub/firefox/releases/3.5.19/win32/en-US/Firefox%20Setup%203.5.19.exe)
+[linux-i686](https://archive.mozilla.org/pub/firefox/releases/3.5.19/linux-i686/en-US/firefox-3.5.19.tar.bz2)
     - [New in JavaScript 1.8.1](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.1.html) - mdn
-  - ___JS 1.8.2___ - 2010 - [_Firefox 3.6_](https://archive.mozilla.org/pub/firefox/releases/3.6.28/win32/en-US/Firefox%20Setup%203.6.28.exe)
+  - ___JS 1.8.2___ - 2010 - [_Firefox 3.6_](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.6.html)
+[win32](https://archive.mozilla.org/pub/firefox/releases/3.6.28/win32/en-US/Firefox%20Setup%203.6.28.exe)
+[linux-i686](https://archive.mozilla.org/pub/firefox/releases/3.6.28/linux-i686/en-US/firefox-3.6.28.tar.bz2)
     - _Only Minor Changes_
-  - ___JS 1.8.5___ - 2011 - [_Firefox 4.0_](https://archive.mozilla.org/pub/firefox/releases/4.0.1/win32/en-US/Firefox%20Setup%204.0.1.exe)
+  - ___JS 1.8.5___ - 2011 - [_Firefox 4.0_](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/4.html)
+[win32](https://archive.mozilla.org/pub/firefox/releases/4.0.1/win32/en-US/Firefox%20Setup%204.0.1.exe)
+[linux-i686](https://archive.mozilla.org/pub/firefox/releases/4.0.1/linux-i686/en-US/firefox-4.0.1.tar.bz2)
+[linux-x86_64](https://archive.mozilla.org/pub/firefox/releases/4.0.1/linux-x86_64/en-US/firefox-4.0.1.tar.bz2)
     - _ES5 Compliant_
     - _Last JavaScript Version_
     - [New in JavaScript 1.8.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.5.html) - mdn
