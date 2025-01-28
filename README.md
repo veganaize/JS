@@ -92,7 +92,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 ## Standards / Conventions
 
 * Netscape
-  - ___JS 1.0___ - 1995 - _[Netscape 2.0](https://en.wikipedia.org/wiki/Netscape_Navigator_2)[^1]_
+  - ___JS 1.0___ - 1995 - _Netscape 2.0[^1]_
     - [JavaScript Authoring Guide](https://web.archive.org/web/19970613234917id_/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/index.html)
 ([_updated_](https://minimum-viable-product.github.io/js-1.0-handbook/))
   - ___JS 1.1___ - 1996 - _Netscape 3.0[^2]_
@@ -129,17 +129,17 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 ([zip](https://web.archive.org/web/20030919183318id_/http://devedge.netscape.com:80/library/manuals/2000/javascript/1.5/guide/CoreGuideJS15.zip))
     - [Core JavaScript Reference](https://web.archive.org/web/20010204033300id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/contents.html)
 ([zip](https://web.archive.org/web/20030403200417id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/CoreReferenceJS15.zip))
-  - ___JS 1.6___ - 2005 - _[Firefox 1.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/1.5.html)[^9]_
+  - ___JS 1.6___ - 2005 - _Firefox 1.5[^9]_
     - [New in JavaScript 1.6](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.6.html) - mdn
-  - ___JS 1.7___ - 2006 - _[Firefox 2.0](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/2.html)[^10]_
+  - ___JS 1.7___ - 2006 - _Firefox 2.0[^10]_
     - [New in JavaScript 1.7](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.7.html) - mdn
-  - ___JS 1.8___ - 2008 - _[Firefox 3.0](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.html)[^11]_
+  - ___JS 1.8___ - 2008 - _Firefox 3.0[^11]_
     - [New in JavaScript 1.8](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.html) - mdn
-  - ___JS 1.8.1___ - 2009 - _[Firefox 3.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.5.html)[^12]_
+  - ___JS 1.8.1___ - 2009 - _Firefox 3.5[^12]_
     - [New in JavaScript 1.8.1](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.1.html) - mdn
-  - ___JS 1.8.2___ - 2010 - _[Firefox 3.6](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.6.html)[^13]_
+  - ___JS 1.8.2___ - 2010 - _Firefox 3.6[^13]_
     - _Only Minor Changes_
-  - ___JS 1.8.5___ - 2011 - _[Firefox 4.0](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/4.html)[^14]_
+  - ___JS 1.8.5___ - 2011 - _Firefox 4.0[^14]_
     - _ES5 Compliant_
     - _Last JavaScript Version_
     - [New in JavaScript 1.8.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.5.html) - mdn
@@ -166,7 +166,7 @@ _[Firefox 54](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/
 
 ### Browser Downloads
 
-[^1]: Netscape 2.02
+[^1]: Netscape [2.0](https://en.wikipedia.org/wiki/Netscape_Navigator_2)2
   [[win32](https://cdn.browserarchive.org/navigator/32bit/2.02/n32e202.exe)]
   [[linux-i486](https://www.mirrorservice.org/sites/browsers.evolt.org/browsers/navigator/linuxx86/2.02/netscape-v202-export_i486-unknown-linux.tar.gz)]
 [^2]: Netscape 3.04
@@ -188,22 +188,22 @@ _[Firefox 54](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/
 [^8]: Firefox 1.0.8
   [[win32](https://archive.mozilla.org/pub/firefox/releases/1.0.8/win32/en-US/Firefox%20Setup%201.0.8.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/1.0.8/linux-i686/en-US/firefox-1.0.8.tar.gz)]
-[^9]: Firefox 1.5.0.12
+[^9]: Firefox [1.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/1.5.html).0.12
   [[win32](https://archive.mozilla.org/pub/firefox/releases/1.5.0.12/win32/en-US/Firefox%20Setup%201.5.0.12.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/1.5.0.12/linux-i686/en-US/firefox-1.5.0.12.tar.gz)]
-[^10]: Firefox 2.0.0.20
+[^10]: Firefox [2.0](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/2.html).0.20
   [[win32](https://archive.mozilla.org/pub/firefox/releases/2.0.0.20/win32/en-US/Firefox%20Setup%202.0.0.20.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/2.0.0.20/linux-i686/en-US/firefox-2.0.0.20.tar.gz)]
-[^11]: Firefox 3.0.18
+[^11]: Firefox [3.0](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.html).18
   [[win32](https://archive.mozilla.org/pub/firefox/releases/3.0.18/win32/en-US/Firefox%20Setup%203.0.18.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/3.0.18/linux-i686/en-US/firefox-3.0.18.tar.bz2)]
-[^12]: Firefox 3.5.19
+[^12]: Firefox [3.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.5.html).19
   [[win32](https://archive.mozilla.org/pub/firefox/releases/3.5.19/win32/en-US/Firefox%20Setup%203.5.19.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/3.5.19/linux-i686/en-US/firefox-3.5.19.tar.bz2)]
-[^13]: Firefox 3.6.28
+[^13]: Firefox [3.6](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/3.6.html).28
   [[win32](https://archive.mozilla.org/pub/firefox/releases/3.6.28/win32/en-US/Firefox%20Setup%203.6.28.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/3.6.28/linux-i686/en-US/firefox-3.6.28.tar.bz2)]
-[^14]: Firefox 4.0.1
+[^14]: Firefox [4.0](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/4.html).1
   [[win32](https://archive.mozilla.org/pub/firefox/releases/4.0.1/win32/en-US/Firefox%20Setup%204.0.1.exe)]
   [[linux-i686](https://archive.mozilla.org/pub/firefox/releases/4.0.1/linux-i686/en-US/firefox-4.0.1.tar.bz2)]
   [[linux-x86_64](https://archive.mozilla.org/pub/firefox/releases/4.0.1/linux-x86_64/en-US/firefox-4.0.1.tar.bz2)]
