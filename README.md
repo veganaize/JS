@@ -69,6 +69,9 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     ```
 * [JSDOC](https://jsdoc.app/)
   - [jsdoc](https://github.com/jsdoc/jsdoc) - github
+* TRANSPILERS
+  - [Closure Compiler](https://developers.google.com/closure/compiler) ([github](https://github.com/google/closure-compiler))
+  - [Traceur Compiler](https://github.com/google/traceur-compiler) - ES6 to ES5 transpiler
 
 
 ## Techniques
