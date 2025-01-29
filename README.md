@@ -144,6 +144,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
     - _Last JavaScript Version_
     - [New in JavaScript 1.8.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.5.html) - mdn
   - ___DHTML___ - 1997 - _Netscape 4[^3]_
+    - [DHTML Explained](https://www.yourhtmlsource.com/javascript/dhtmlexplained.html)
     - [Dynamic HTML in Netscape Communicator](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm)
     - [HTML Central](https://web.archive.org/web/20040813051149id_/http://devedge.netscape.com/central/html/)
     - [CSS Central](https://web.archive.org/web/20040926074952id_/http://devedge.netscape.com/central/css/)
