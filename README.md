@@ -48,11 +48,12 @@ _A list of resources primarily for classical Javascript ≤ ES 5.1 — its best 
   - [Browser Developer Console](https://blog.teamtreehouse.com/mastering-developer-tools-console) - treehouse
   - [Chromium Dev Tools](https://developer.chrome.com/docs/devtools/)
     - [keyboard shortcuts](https://developer.chrome.com/docs/devtools/shortcuts/)
+    - [debug javascript](https://developer.chrome.com/docs/devtools/javascript/) [[youtube](https://youtu.be/H0XScE08hy8)]
   - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
     - [keyboard shortcuts](https://firefox-source-docs.mozilla.org/devtools-user/keyboard_shortcuts/index.html)
     - [web console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
-    - [Mozilla's Command Line Options](https://www-archive.mozilla.org/docs/command-line-args.html) - 2003-2005
-    - [Firefox/CommandLineOptions](https://wiki.mozilla.org/Firefox/CommandLineOptions) - mozilla wiki
+    - [mozilla's command line options](https://www-archive.mozilla.org/docs/command-line-args.html) - 2003-2005
+    - [firefox/commandlineoptions](https://wiki.mozilla.org/Firefox/CommandLineOptions) - mozilla wiki
     - `firefox.exe -h | more` <-- Pipe required for Windows because of bug.
     - `firefox.exe -P dev --new-instance --devtools --private-window`
     - `about:config`
