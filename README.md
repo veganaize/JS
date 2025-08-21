@@ -159,6 +159,7 @@ _A list of resources primarily for classic Javascript ≤ ES 5.1 — its best er
 _[Firefox 4](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/4)[^14]_
   - [ES5.1](https://262.ecma-international.org/5.1/index.html) - 2011
 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_5.1_edition_june_2011.pdf))
+([annotated](https://es5.github.io/))
   - [ES6](https://262.ecma-international.org/6.0/index.html) - 2015
 ([pdf](https://ecma-international.org/wp-content/uploads/ECMA-262_6th_edition_june_2015.pdf)) -
 _[Firefox 54](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/54)[^15]_
