@@ -1,6 +1,6 @@
 <img alt="JS" src="https://github.com/user-attachments/assets/54328c3b-0d27-4494-a1db-90e9188a6159" width="48px" />
 
-_A list of resources primarily for classic Javascript ≤ ES 5.1 — its best era!_
+_A list of resources primarily for classical Javascript ≤ ES 5.1 — its best era!_
 
 ## Style
 
