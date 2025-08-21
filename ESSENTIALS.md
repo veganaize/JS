@@ -21,8 +21,8 @@ _A JS quick reference minus most of the ES6+ pollution!_
 | `&&`                | logical AND
 | `\|\|`              | logical OR
 | `?:`                | ternary conditional
-| `= *= /= += -= %=`<br />`<<= >>= >>>=`<br />`&= ^= \|= &&= \|\|=`<br />`**= ??=` | assignment
-| `=>`                | arrow operator
+| `= *= /= += -= %=`<br />`<<= >>= >>>=`<br />`&= ^= \|= &&= \|\|=`<br />`**= ??=` * | assignment
+| `=>` *              | arrow operator
 | `,`                 | comma operator
 
 
@@ -30,3 +30,6 @@ _A JS quick reference minus most of the ES6+ pollution!_
 ```js
 array.length  // unsigned 32-bit integer
 ```
+
+
+_* ES6+ features_
