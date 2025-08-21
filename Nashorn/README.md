@@ -7,5 +7,6 @@
 ---
 
 * [Project Nashorn](https://openjdk.java.net/projects/nashorn/) - standalone openjdk project _(jdk11+ compatible)_
+  - [Github repo](https://github.com/openjdk/nashorn)
   - [Maven repo](https://mvnrepository.com/artifact/org.openjdk.nashorn/nashorn-core)
     - [nashorn-core-15.6.jar](https://repo1.maven.org/maven2/org/openjdk/nashorn/nashorn-core/15.6/nashorn-core-15.6.jar)
