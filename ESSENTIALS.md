@@ -26,9 +26,13 @@ _A JS quick reference minus most of the ES6+ pollution!_
 | `,`                 | comma operator
 
 
+### Array
 
 ```js
 array.length  // unsigned 32-bit integer
+
+array.pop()  // remove & return last element
+array.push(value, ..)  // append value(s); returns new length
 ```
 
 
