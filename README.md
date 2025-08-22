@@ -49,6 +49,7 @@ _A list of resources primarily for classical Javascript ≤ ES 5.1 — its best 
   - [Chromium Dev Tools](https://developer.chrome.com/docs/devtools/)
     - [keyboard shortcuts](https://developer.chrome.com/docs/devtools/shortcuts/)
     - [debug javascript](https://developer.chrome.com/docs/devtools/javascript/) [[youtube](https://youtu.be/H0XScE08hy8)]
+    - [run snippets](https://developer.chrome.com/docs/devtools/javascript/snippets/) [[youtube](https://youtu.be/zW9ibQbYJNE)]
   - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
     - [keyboard shortcuts](https://firefox-source-docs.mozilla.org/devtools-user/keyboard_shortcuts/index.html)
     - [web console](https://firefox-source-docs.mozilla.org/devtools-user/web_console/index.html)
