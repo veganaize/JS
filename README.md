@@ -98,16 +98,16 @@ _A list of resources primarily for classical Javascript ≤ ES 5.1 — its best 
     - [JavaScript Authoring Guide](https://web.archive.org/web/19970613234917id_/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/index.html)
 ([_updated_](https://minimum-viable-product.github.io/js-1.0-handbook/))
   - ___JS 1.1___ - 1996 - _Netscape 3.0[^2]_
-    - [New in JavaScript 1.1](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.1.html) - mdn
+    - [New in JavaScript 1.1](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.1.html) - mdn
     - [JavaScript Guide](https://web.archive.org/web/19970614042441id_/http://home.netscape.com/eng/mozilla/3.0/handbook/javascript/index.html)
   - ___JS 1.2___ - 1997 - _Netscape 4.0-4.05[^3]_
-    - [New in JavaScript 1.2](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.2.html) - mdn
+    - [New in JavaScript 1.2](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.2.html) - mdn
     - [JavaScript 1.2 Events](https://web.archive.org/web/19990417223104id_/http://developer.netscape.com/docs/technote/javascript/eventhandler/eventhandler.htm) - devedge
     - [JavaScript Guide](https://web.archive.org/web/19981206151821id_/http://developer.netscape.com/docs/manuals/communicator/jsguide4/index.htm)
     - [JavaScript Reference](https://web.archive.org/web/19990420172150id_/http://developer.netscape.com/docs/manuals/communicator/jsref/index.htm)
   - ___JS 1.3___ - 1998 - _Netscape 4.06[^4] - 4.79[^5]_
     - _ES1 Compliant_
-    - [New in JavaScript 1.3](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.3.html) - mdn
+    - [New in JavaScript 1.3](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.3.html) - mdn
     - [What's New in JavaScript 1.3](https://web.archive.org/web/20000815081640id_/http://developer.netscape.com/docs/manuals/communicator/jsref/js13.html) - devedge
     - [The JavaScript Console](https://web.archive.org/web/19990225164533id_/http://developer.netscape.com/docs/technote/jsconsole.html) - devedge
     - [Client-Side JavaScript Guide](https://web.archive.org/web/19990427055335id_/http://developer.netscape.com/docs/manuals/js/client/jsguide/index.htm)
@@ -117,7 +117,7 @@ _A list of resources primarily for classical Javascript ≤ ES 5.1 — its best 
 ([pdf](https://web.archive.org/web/20000818004411id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.pdf))
 ([zip](https://web.archive.org/web/20000818004419id_/http://developer.netscape.com/docs/manuals/js/client/jsref/ClientReferenceJS13.zip))
   - ___JS 1.4___
-    - [New in JavaScript 1.4](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.4.html) - mdn
+    - [New in JavaScript 1.4](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.4.html) - mdn
     - [Core JavaScript Guide](https://web.archive.org/web/20000301015524id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/index.htm)
 ([pdf](https://web.archive.org/web/20000818004517id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.pdf))
 ([zip](https://web.archive.org/web/20000818004526id_/http://developer.netscape.com/docs/manuals/js/core/jsguide/CoreGuideJS14.zip))
@@ -126,25 +126,25 @@ _A list of resources primarily for classical Javascript ≤ ES 5.1 — its best 
 ([zip](https://web.archive.org/web/20000818004552id_/http://developer.netscape.com/docs/manuals/js/core/jsref/CoreReferenceJS14.zip))
   - ___JS 1.5___ - 2000 - _Mozilla[^6] / Netscape 6[^7] / Firefox 1.0[^8]_
     - _ES3 Compliant_
-    - [New in JavaScript 1.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.5.html) - mdn
+    - [New in JavaScript 1.5](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.5.html) - mdn
     - [Core JavaScript Guide](https://web.archive.org/web/20010204031200id_/http://developer.netscape.com/docs/manuals/js/core/jsguide15/contents.html)
 ([zip](https://web.archive.org/web/20030919183318id_/http://devedge.netscape.com:80/library/manuals/2000/javascript/1.5/guide/CoreGuideJS15.zip))
     - [Core JavaScript Reference](https://web.archive.org/web/20010204033300id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/contents.html)
 ([zip](https://web.archive.org/web/20030403200417id_/http://developer.netscape.com/docs/manuals/js/core/jsref15/CoreReferenceJS15.zip))
   - ___JS 1.6___ - 2005 - _Firefox 1.5[^9]_
-    - [New in JavaScript 1.6](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.6.html) - mdn
+    - [New in JavaScript 1.6](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.6.html) - mdn
   - ___JS 1.7___ - 2006 - _Firefox 2.0[^10]_
-    - [New in JavaScript 1.7](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.7.html) - mdn
+    - [New in JavaScript 1.7](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.7.html) - mdn
   - ___JS 1.8___ - 2008 - _Firefox 3.0[^11]_
-    - [New in JavaScript 1.8](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.html) - mdn
+    - [New in JavaScript 1.8](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.8.html) - mdn
   - ___JS 1.8.1___ - 2009 - _Firefox 3.5[^12]_
-    - [New in JavaScript 1.8.1](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.1.html) - mdn
+    - [New in JavaScript 1.8.1](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.8.1.html) - mdn
   - ___JS 1.8.2___ - 2010 - _Firefox 3.6[^13]_
     - _Only Minor Changes_
   - ___JS 1.8.5___ - 2011 - _Firefox 4.0[^14]_
     - _ES5 Compliant_
     - _Last JavaScript Version_
-    - [New in JavaScript 1.8.5](https://devdoc.net/web/developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.8.5.html) - mdn
+    - [New in JavaScript 1.8.5](https://udn.realityripple.com/docs/Archive/Web/JavaScript/New_in_JavaScript/1.8.5) - mdn
   - ___DHTML___ - 1997 - _Netscape 4[^3]_
     - [DHTML Explained](https://www.yourhtmlsource.com/javascript/dhtmlexplained.html)
     - [Dynamic HTML in Netscape Communicator](https://web.archive.org/web/19990423033152id_/http://developer.netscape.com/docs/manuals/communicator/dynhtml/index.htm)
