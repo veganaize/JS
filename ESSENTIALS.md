@@ -75,3 +75,18 @@ error.toString()  // string representation of error
 
 try { throw 'some error' } catch(error) { console.error(error) } finally { console.log('run regardless') }
 ```
+
+
+### Object
+
+```js
+new Object()  // `{ }` preferred since js 1.2
+
+object.constructor  // reference to constructing function; js 1.1
+object.hasOwnProperty(name)  // `true` if has non-inherited property `name`; ES3
+object.isPrototypeOf(o)  // `false` if `o` not an object or this not its prototype; ES3
+object.propertyIsEnumerable(name)  // `true` if has non-inherited enumerable property `name`; ES3
+object.toLocaleString()  // returns localized string representation; calls `.toString()` by default; ES3
+object.toString()  // returns string representation; subclasses should override; generic implementation from `Object` since js 1.1
+object.valueOf()  // returns primitive value, if any; `Object` type returns self; js 1.1
+```
