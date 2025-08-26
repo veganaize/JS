@@ -30,7 +30,7 @@ _A JS quick reference minus most of the ES6+ pollution!_
 
 ```js
 arguments[n]
-arguments.callee  // reference to currently executing function; js 1.2+
+arguments.callee  // reference to currently executing function; js 1.2
 arguments.length
 ```
 
@@ -38,7 +38,21 @@ arguments.length
 ### Array <sup>1.1</sup>
 
 ```js
-array.length  // unsigned 32-bit integer
-array.pop()  // remove & return last element
-array.push(value, ..)  // append value(s); returns new length
+new Array()  // `[]` preferred since js 1.2
+new Array(size)
+new Array(element1, element2, ...)    // `[element1, element2, ..]` preferred since js 1.2
+
+array.concat(element1, element2, ..)  // returns new array; array args deconstructed; js 1.2
+array.join(separator)  // returns string of elements, with separator string between each
+array.length           // unsigned 32-bit integer
+array.pop()            // remove & return last element; js 1.2
+array.push(value, ..)  // append value(s); returns new length; js 1.2
+array.reverse()        // reverse elements in-place; returns nothing
+array.shift()          // remove & return first element; shift elements down; decrement length; js 1.2
+array.slice(begin, end)        // returns new array; `begin` to `end` exclusive; js 1.2
+array.sort(ordering_function)  // returns reference; sorted in-place; numbers converted to strings; no time/space guarantees
+array.splice(begin, count, element1, ..)  // returns array of deleted elements; deletes `count` then inserts args; js 1.2
+array.toLocaleString()         // returns localized string representation of array; ES1
+array.toString()               // returns string representation of array
+array.unshift(element1, ..)    // shift elements up & insert arg(s) at beginning of array; js 1.2
 ```
