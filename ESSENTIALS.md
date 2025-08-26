@@ -21,19 +21,24 @@ _A JS quick reference minus most of the ES6+ pollution!_
 | `&&`                | logical AND
 | `\|\|`              | logical OR
 | `?:`                | ternary conditional
-| `= *= /= += -= %=`<br />`<<= >>= >>>=`<br />`&= ^= \|= &&= \|\|=`<br />`**= ??=` * | assignment
-| `=>` *              | arrow operator
+| `= *= /= += -= %=`<br />`<<= >>= >>>=`<br />`&= ^= \|= &&= \|\|=`<br />`**=` <sup>2016</sup> `??=` <sup>2020</sup> | assignment
+| `=>` <sup>ES6</sup> | arrow operator
 | `,`                 | comma operator
 
 
-### Array
+### Arguments <sup>1.1</sup>
 
 ```js
-array.length  // unsigned 32-bit integer
-
-array.pop()  // remove & return last element
-array.push(value, ..)  // append value(s); returns new length
+arguments[n]
+arguments.callee  // reference to currently executing function; js 1.2+
+arguments.length
 ```
 
 
-_* ES6+ features_
+### Array <sup>1.1</sup>
+
+```js
+array.length  // unsigned 32-bit integer
+array.pop()  // remove & return last element
+array.push(value, ..)  // append value(s); returns new length
+```
