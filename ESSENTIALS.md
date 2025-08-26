@@ -56,3 +56,22 @@ array.toLocaleString()         // returns localized string representation of arr
 array.toString()               // returns string representation of array
 array.unshift(element1, ..)    // shift elements up & insert arg(s) at beginning of array; js 1.2
 ```
+
+
+### Error <sup>ES3</sup>
+
+```js
+new Error(optional_message)
+new EvalError(optional_message)       // during `eval()`; use `SyntaxError` instead
+new RangeError(optional_message)      // number outside valid range
+new ReferenceError(optional_message)  // illegal reference (undeclared variable)
+new SyntaxError(optional_message)     // syntax error
+new TypeError(optional_message)       // type error (missing interface)
+new URIError(optional_message)        // during `encodeURI()` (cannot decode)
+
+error.message     // string passed to constructor or implementation-defined default string
+error.name        // type of exception (ie. name of constructor)
+error.toString()  // string representation of error
+
+try { throw 'some error' } catch(error) { console.error(error) } finally { console.log('run regardless') }
+```
