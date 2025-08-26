@@ -38,9 +38,9 @@ arguments.length
 ### Array <sup>1.1</sup>
 
 ```js
-new Array()  // `[]` preferred since js 1.2
+new Array()                          // `[]` preferred since js 1.2
 new Array(size)
-new Array(element1, element2, ...)    // `[element1, element2, ..]` preferred since js 1.2
+new Array(element1, element2, ..)    // `[element1, element2, ..]` preferred since js 1.2
 
 array.concat(element1, element2, ..)  // returns new array; array args deconstructed; js 1.2
 array.join(separator)  // returns string of elements, with separator string between each
