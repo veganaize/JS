@@ -67,10 +67,10 @@ new RangeError(optional_message)      // number outside valid range
 new ReferenceError(optional_message)  // illegal reference (undeclared variable)
 new SyntaxError(optional_message)     // syntax error
 new TypeError(optional_message)       // type error (missing interface)
-new URIError(optional_message)        // during `encodeURI()` (cannot decode)
+new URIError(optional_message)        // during `encodeURI()` or `decodeURI()`
 
 error.message     // string passed to constructor or implementation-defined default string
-error.name        // type of exception (ie. name of constructor)
+error.name        // type of exception (name of constructor)
 error.toString()  // string representation of error
 
 try { throw 'some error' } catch(error) { console.error(error) } finally { console.log('run regardless') }
