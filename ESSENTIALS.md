@@ -113,3 +113,31 @@ object.valueOf()  // returns primitive value, if any; `Object` type returns self
 
 object = null  // remove object by setting reference to `null`; js 1.1
 ```
+
+
+### String
+
+```js
+new String(value)  // converts & wraps `value` in `String` object
+String(value)     // converts `value` to primitive string
+
+String.fromCharCode(n1, n2, ..)  // returns new string of characters with encodings specified by args; js 1.2
+String.fromCodePoint(...codepoints)  // surrogate pair aware version of `fromCharCode`; ES6
+
+string.charAt(n)  // character at position `n`
+string.charCodeAt(n)  // unicode encoding of character at position `n`; js 1.2
+string.codePointAt(n)  // surrogate pair aware; index still based on 16-bit code units; ES6
+string.concat(value1, ..)  // returns new string with each arg converted & concatenated; js 1.2
+string.indexOf(substring, begin)  // first position of `substring`, at or after `begin`, or `-1` if not found
+string.lastIndexOf(substring, begin)  // last position of `substring`, before `begin`, or `-1` if not found
+string.length  // number of characters
+string.match(regexp)  // returns array of match results or `null` if none; js 1.2
+string.replace(regexp, replacement)  // returns new string with `regexp` matches replaced with `replacement`; js 1.2
+string.search(regexp)  // returns position of first matching substring, or `-1` if not found; js 1.2
+string.slice(begin, end)  // returns new string containing `begin` to (optional) `end` exclusive; negative positions from end of string; js 1.2
+string.split(delimiter, limit)  // returns array of strings split on `delimiter` (string or regexp); js 1.1
+string.substring(begin, end)  // returns new string from `begin` to (optional) `end` exclusive
+string.toLowerCase()  // returns new lowercased string
+string.toUpperCase()  // returns new uppercased string
+string.trim()  // returns new string with whitespace removed at both ends; ES5
+```
