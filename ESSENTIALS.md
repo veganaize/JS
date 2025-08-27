@@ -110,4 +110,6 @@ object.propertyIsEnumerable(name)  // `true` if has non-inherited enumerable pro
 object.toLocaleString()  // returns localized string representation; calls `.toString()` by default; ES3
 object.toString()  // returns string representation; subclasses should override; generic implementation from `Object` since js 1.1
 object.valueOf()  // returns primitive value, if any; `Object` type returns self; js 1.1
+
+object = null  // remove object by setting reference to `null`; js 1.1
 ```
