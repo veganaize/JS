@@ -136,7 +136,7 @@ string.replace(regexp, replacement)  // returns new string with `regexp` matches
 string.search(regexp)       // returns position of first matching substring, or `-1` if not found; js 1.2
 string.slice(begin[, end])  // returns new string excluding `end`; negative positions from end of string; js 1.2
 string.split(delimiter[, max_limit])  // returns array of strings split on `delimiter` (string or regexp); js 1.1
-string.substring(index_a[, index_b])    // returns new string, from lesser to greater (exclusive) of both args
+string.substring(index_a[, index_b])  // returns new string, from lesser to greater (exclusive) of both args
 string.toLowerCase()  // returns new lowercased string
 string.toUpperCase()  // returns new uppercased string
 string.trim()  // returns new string with whitespace removed at both ends; ES5
