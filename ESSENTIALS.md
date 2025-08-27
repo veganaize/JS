@@ -86,9 +86,9 @@ Number(value)      // returns `value` as primitive number
 Number.isFinite(n)  // `false` if `n` is `NaN` or +/- `Infinity`; no numeric conversion, unlike global `isFinite()`; ES6
 Number.MAX_VALUE    // ~ 1.75E+308
 Number.MIN_VALUE    // smallest positive; ~ 5E-324
-Number.NaN          // not a number; same as global `NaN`
-Number.NEGATIVE_INFINITY  // same as global `-Infinity`
-Number.POSITIVE_INFINITY  // same as global `Infinity`
+Number.NaN          // not a number; same as ES3 global `NaN`
+Number.NEGATIVE_INFINITY  // same as ES3 global `-Infinity`
+Number.POSITIVE_INFINITY  // same as ES3 global `Infinity`
 
 number.toExponential(count)  // return string in exponential notation, with `count` (0-20) digits after decimal; rounded or zero-padded; ES3
 number.toFixed(count)    // return string with exactly `count` (0-20) digits after decimal; rounded or zero-padded; ES3
