@@ -77,6 +77,27 @@ try { throw 'some error' } catch(error) { console.error(error) } finally { conso
 ```
 
 
+### Number <sup>1.1</sup>
+
+```js
+new Number(value)  // returns `value` wrapped in `Number` object
+Number(value)      // returns `value` as primitive number
+
+Number.isFinite(n)  // `false` if `n` is `NaN` or +/- `Infinity`; no numeric conversion, unlike global `isFinite()`; ES6
+Number.MAX_VALUE    // ~ 1.75E+308
+Number.MIN_VALUE    // smallest positive; ~ 5E-324
+Number.NaN          // not a number; same as global `NaN`
+Number.NEGATIVE_INFINITY  // same as global `-Infinity`
+Number.POSITIVE_INFINITY  // same as global `Infinity`
+
+number.toExponential(count)  // return string in exponential notation, with `count` (0-20) digits after decimal; rounded or zero-padded; ES3
+number.toFixed(count)    // return string with exactly `count` (0-20) digits after decimal; rounded or zero-padded; ES3
+number.toLocaleString()  // string formatted to local conventions; implementation-dependent; ES3
+number.toPrecision(n)  // string containing `n` (1-21) significant digits; fixed-point notation if possible; rounded or zero-padded; ES3
+number.toString(radix)   // returns number as string, using optional radix (2-36); default base 10
+```
+
+
 ### Object
 
 ```js
