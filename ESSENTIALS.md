@@ -102,6 +102,7 @@ number.toString(radix)   // returns number as string, using optional radix (2-36
 
 ```js
 new Object()  // `{ }` preferred since js 1.2
+Object()      // identical to `new Object()`; js 1.1
 
 object.constructor  // reference to constructing function; js 1.1
 object.hasOwnProperty(name)  // `true` if has non-inherited property `name`; ES3
