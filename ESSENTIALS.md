@@ -115,11 +115,12 @@ object = null  // remove object by setting reference to `null`; js 1.1
 ```
 
 
-### String
+### String <sup>1.1</sup>
 
 ```js
-new String(value)  // converts & wraps `value` in `String` object; js 1.1
-String(value)      // converts `value` to primitive string; js 1.1
+new String(value)  // converts & wraps `value` in `String` object
+String(value)      // converts `value` to primitive string
+''                 // since js 1.0
 
 String.fromCharCode(n1, n2, ..)  // returns new string of characters with encodings specified by args; js 1.2
 String.fromCodePoint(...codepoints)  // surrogate pair aware version of `fromCharCode`; ES6
